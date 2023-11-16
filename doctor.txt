@@ -1,0 +1,6 @@
+DrSmith 150 General -
+DrJohnson 200 Pediatrics -
+DrWilliams 180 Orthopedics -
+DrBrown 250 Cardiology -
+DrDavis 200 Gynecology -
+DrAnthony 300 Dentist -
